@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdfasdfsad
 
 
@@ -10,3 +11,6 @@ f
 sad
 fsd
 ad
+=======
+asdfasdfsad
+>>>>>>> 1a1f773db95d51036a1585da0ac406b5f409325a
